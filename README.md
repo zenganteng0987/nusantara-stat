@@ -1,6 +1,8 @@
 # NusantaraStat
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-E8A33D)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/zenganteng0987/nusantara-stat/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/zenganteng0987/nusantara-stat/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0B3B4D.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/Node-22-0B3B4D.svg)](https://nodejs.org/)
 
